@@ -1,0 +1,2 @@
+C:\Users\mjtab\HTML-CSSlarge\TTA-Large-HTML-CSS-Projects\MVC_web_app\ContosoUniversity\obj\Debug\ContosoUniversity.csprojAssemblyReference.cache
+C:\Users\mjtab\HTML-CSSlarge\TTA-Large-HTML-CSS-Projects\MVC_web_app\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CoreCompileInputs.cache
